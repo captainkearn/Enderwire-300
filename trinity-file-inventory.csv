@@ -1,0 +1,99 @@
+source_folder,relative_path,bytes,sha256,selection_status
+Deckpanel Splitted,Deckpanel Splitted/1-deckpanel-front-left.stl,18484,aea3868288640866fa8f835563132427050eefaa4e953af749578365ebbbc839,pending builder selection
+Deckpanel Splitted,Deckpanel Splitted/10-cable-blend-rear-right-z-chain-side.stl,537584,37182cafc8d5f0a517644a3de693fcbf2cf1c34876e1cf7866045649c67a02ea,pending builder selection
+Deckpanel Splitted,Deckpanel Splitted/2-deckpanel-front-right.stl,18484,2b4edf215c46c9040967593f12540e12169dc4350bde045a560eb3e0ee3093ec,pending builder selection
+Deckpanel Splitted,Deckpanel Splitted/3-deckpanel-middle-left.stl,21884,65a329867dbbcda1ae635c3addf0610b80d8f6b2534fe880274a8c7f1065b3e3,pending builder selection
+Deckpanel Splitted,Deckpanel Splitted/4-deckpanel-middle-right.stl,21884,00b2be7049a01a0435200152e83bf23f6417abda17778a704af3dc3668e7eb0a,pending builder selection
+Deckpanel Splitted,Deckpanel Splitted/5-deckpanel-rear-left.stl,24084,76de92c1525c262ae10ff6c6c25730f100e2e62ae5b9ea9fb572afc0457c06a0,pending builder selection
+Deckpanel Splitted,Deckpanel Splitted/6-deckpanel-rear-right.stl,26284,ebb4fe19391846e88e72ba3dc761258524990ac6d17e847f6720341a13e71034,pending builder selection
+Deckpanel Splitted,Deckpanel Splitted/7-deckpanel-cable-blend-x2.stl,94884,2a240ad4e7b3a3d366275e34a108a3e099abf6ed084b519cdc0da2ba0dcd617c,pending builder selection
+Deckpanel Splitted,Deckpanel Splitted/9-cable-blend-rear-left-cable-chain-side.stl,61784,7e7498a0fd24b682a79ff62b8539b4bfd4de4ed0b347b35f2d77946924eda068,pending builder selection
+EMS,EMS/1-ems-front-left.stl,162284,f341a9f3faac745b286c26eb4695900eaba81dcfadcdccfbe0874afa7af3c192,pending builder selection
+EMS,EMS/2-ems-front-right.stl,237584,d57885648426c66535cab57b49422107bea36025304246e317af29cff069754f,pending builder selection
+EMS,EMS/3-ems-middle-left.stl,1222284,3a09b03879f03fa13351f23d208f898a147702f69b16513fe531203124750b8d,pending builder selection
+EMS,EMS/4-ems-middle-right.stl,876384,052d0a6e94fbb37a1823fb3461e8bb5f0ecaa83df5c9c2f799d4b052e2dbabbc,pending builder selection
+EMS,EMS/5-ems-rear-left.stl,586184,64794948a62f941a271f22cf1609a9066531422327861026947a8935e316a941,pending builder selection
+EMS,EMS/6-ems-rear-right.stl,609384,112c06ef7cb27f2e627b7c369d5c09b7e5357de7838a9e88c9621508df60e879,pending builder selection
+EMS,EMS/7-ems-cable-channel-voron-cover.stl,49784,99fe28389b3a5833e187269eea8b8ddb26c5440eb59de99db2d6ff681e8e0c2c,pending builder selection
+EMS,EMS/8-ems-front-left-holder.stl,140984,a2ea75bbdcd388fe94c15dde54ed54bab827b9ddced310cdc052935947ace05e,pending builder selection
+EMS,EMS/9-ems-front-right-holder.stl,148334,6eb74f530872f4caa7655b272f893a1fd2b9892f143fa5472d4e3985c1ab67ad,pending builder selection
+Extrusion Expand Front,Extrusion Expand Front/1-extrusion-expand-front-left-1.stl,595984,568299f3388894e40854b20407b428d44b4f9076c18f4f19c75ab50bf793cabb,pending builder selection
+Extrusion Expand Front,Extrusion Expand Front/2-extrusion-expand-front-left-2.stl,627584,6d28640d41909cc3240929b6369a634497d4bddb4e11da511d34f5f6f92947cc,pending builder selection
+Extrusion Expand Front,Extrusion Expand Front/3-extrusion-expand-front-right-1.stl,596684,6a24322241e067f72efbf9f8451dac82328395516512e321032c61564d30ce63,pending builder selection
+Extrusion Expand Front,Extrusion Expand Front/4-extrusion-expand-front-right-2.stl,627784,77cde4dae4f05ee251d39081b1139da03f762f895e2ee62d04899f1eed2fb573,pending builder selection
+Extrusion Expand Front,Extrusion Expand Front/5-extrusion-expand-connector-front-right.stl,143884,cdf5d726746a7cbe2e7bc42586b20b4fdb35890d9b4e5740ff1a505b02e16d64,pending builder selection
+Extrusion Expand Front,Extrusion Expand Front/6-extrusion-expand-connector-front-left.stl,143884,6bdf66b25537a930748c7a3a8b11ad34f7203cc7480536b41e99337a3ad481c2,pending builder selection
+Extrusion Expand Rear,Extrusion Expand Rear/1-extrusion-expand-rear-left-c14-side.stl,461584,80c8b9f518f43b2fb1dceb45f8cdd7184361111a917351c94940933d898dfc54,pending builder selection
+Extrusion Expand Rear,Extrusion Expand Rear/2-extrusion-expand-rear-right-6020-fan-side.stl,461884,83dd8e55d9c32970a2780227cf18dae05156e6cd3380cd40af6a431384bf6cf3,pending builder selection
+Feeds,Feeds/1-extrusion-feed-left-side-1.stl,147184,352ab654be29aad02059be77ebf8e21abed8d0db49f416faf83da14a857dc385,pending builder selection
+Feeds,Feeds/2-extrusion-feed-left-side-2.stl,146584,5d66a106c10419d34e4f46e15f62bfe1ba16a0408c32dd709393a8f63ade353d,pending builder selection
+Feeds,Feeds/3-extrusion-feed-right-side-1.stl,147384,48ec78d6d9c8af73ac7e11e04d20068ebd21832d43accb28cfbd08520ee7c4c7,pending builder selection
+Feeds,Feeds/4-extrusion-feed-right-side-2.stl,146584,f1df0d5ad2b0c4286af095f1c56683420291d503f66f9ed48da2ebbba48613e1,pending builder selection
+Feeds,Feeds/5-extrusion-feed-caps-1-x2.stl,42984,0c8e956fcecb619ce0a24979efaad01ecb05555474eee577b340549e557c369c,pending builder selection
+Feeds,Feeds/6-extrusion-feed-caps-2-x2.stl,47584,4b22983a218e11140ef7f1b3e2beadd013909a913df4825e5657ebd9bbc3b3ab,pending builder selection
+Front Skirt,Front Skirt/1-front-skirt-left.stl,283884,99eb07d067e81749f30fe7afd42c8888562f5a7b9384bab575746498e420791c,pending builder selection
+Front Skirt,Front Skirt/2-front-middle-skirt-btt-tft-mount.stl,300084,dba68cee8534f9f15291ad383c5ee9f4f7cbe2ac6bbfc4ceb34fa9d0f99def86,pending builder selection
+Front Skirt,Front Skirt/3-front-skirt-right.stl,283884,a4e1122aa696a7e658aa2d932818e0c750e896fae69db358b253a186df02748b,pending builder selection
+Keybak-Door Puller Mount,Keybak-Door Puller Mount/1-keybak-mount-plate-a.stl,1001984,dee7940b8bde39fa34f790cbecee624de5e3b2e75da1a0e5435aafd0af178a44,pending builder selection
+Keybak-Door Puller Mount,Keybak-Door Puller Mount/2-keybak-mount-plate-b.stl,287384,cf6bec90b8237b24111fd315e3da5c0bd8006d5bbddd3f6dd56a04f31bf37717,pending builder selection
+Keybak-Door Puller Mount,Keybak-Door Puller Mount/3-keybak-gantry-anchor.stl,381884,68de56c823c17a088073ce1c93666d0c4633ac047de20da9ff7ad0c72bee2bad,pending builder selection
+Keybak-Door Puller Mount,Keybak-Door Puller Mount/4-keybak-idler-bracket.stl,380984,3ef5e4395d3bc60d6b8a2f4bdb8327ddc839c7780413b38ed8bbc58e3e4ab0f5,pending builder selection
+Keybak-Door Puller Mount,Keybak-Door Puller Mount/5-door-puller-a-mount.stl,128284,69812ec6045cf7fbc3fac387e33beb3ce898f7eb7886ddc83063b6cd9d624b0f,pending builder selection
+Keybak-Door Puller Mount,Keybak-Door Puller Mount/6-door-puller-b-mount.stl,71084,723f011433db6441d938975a4e3822f4efbc715e464c68062a3def7ab0eb28da,pending builder selection
+Misc Parts,Misc Parts/6020-fan-fizzytech-blend-cover-rear-left-skirt.stl,183084,7f12c991a236c32d8ba28fd3627c43d025627dd8070b3191788032ef9efd1521,pending builder selection
+Misc Parts,Misc Parts/6020-fan-front-skirt-mount.stl,58084,d058f04c891d4b747ddecd41d769709187521a422936e5ed67272d8f64a9a944,pending builder selection
+Misc Parts,Misc Parts/skirt-blends-4x.stl,98684,665f9a7c3de8c39b990324e1057f4de8e39998fcade0caeafae51984d313233f,pending builder selection
+Misc Parts,Misc Parts/wago-2x2-ems-mount.stl,151284,8b82f58c0396e78103da5d397eee84a8fcc1c5165bc33ce63ffe4fc312c12273,pending builder selection
+Misc Parts,Misc Parts/wago-max-mount-3x3-4x2.stl,286984,1e445acd788778580cf93fb03728e01207690b05d5e61a9ec514b107db561779,pending builder selection
+Rear Skirts,Rear Skirts/1-rear-right-6020-fan-skirt.stl,219584,4cd11e1212cca34cbdac1d3ee1268c7e1a524e0ec336e2f75edf6f685df199b2,pending builder selection
+Rear Skirts,Rear Skirts/2-rear-middle-keystone-skirt.stl,294184,ba618d95019475a34fa58285de48f10b8e93aef8432bf4c14c6d6c5142ab575e,pending builder selection
+Rear Skirts,Rear Skirts/3-rear-left-c14-skirt.stl,258884,8718563d3b76a1acdcc77e80d827f2caba0790bd8f986f27fa52c5ed978cc59a,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/1-belt-clamp-sw-x2.stl,723084,d1752d760297b138ba249a6b1f676455ef1b6cd1adb0edae0c2b005082f6626e,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/10-cable-cover.stl,508784,3ba3c024fcecf92b7ab3e18ba2cda8e6cb9d96109a23f6e02c79dddd62b29175,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/11-cable-door-for-pcb.stl,587784,7ee487fc162422f3700f3b05974750857c27e051b27c760b3a23fade8f795bef,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/12-main-body.stl,2815184,ebd6ff2e8bc3f5665c2d42be1687f09f9dee89697f2dff01d38fcef7ea220dfd,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/13-motor-plate.stl,1352084,b0e08a8e9c2cc69e30c376c019dead71e3fcb331b67e6f937642853707dbbea6,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/14-probe-bracket.stl,1057484,1e23f48e705d661517d47533125b4e6909c44f660c9a89f5e15cc4a8d3beb73d,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/15-sb-adxl-mount-generic.stl,222384,9a03f04b23b8cfc49ee6e4abd7f7b2d30a3cc795edae6ff8f0411b30a0bc65cb,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/16-sb-adxl-washer-x2.stl,94684,7841ef24b2ab49b1e5e4e16bb7ca3a69dfad1c4cd74ef44dcc49f456b8d629a5,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/17-stealthburner-printhead-revo-voron-rear-cw2.stl,1256384,34b1b2165c54f3130787544c9cf4d66f3a045fa936e5312063cc29dfa14cb65f,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/18-x-frame-sw-left.stl,2428784,de1bd1f30b6fedb19e2b6c9f47bb8df2841892b3a08607fb36c370f769bb1bca,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/19-x-frame-sw-right.stl,2242584,6da7e63ae9f3e829d6685d1693a2ab3bc0394453cf62004833141198ff03185b,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/2-guidler-a.stl,618084,453f2258a3d878d63b909fe59e71d70d5199974be9f902939f6175ae1e4b4263,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/20-stealthburner-printhead-revo-voron-front.stl,26566084,199a8c4db60fb5bc221848835779a6db58c48fc0785f46b47af2de35f1bcfb2a,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/3-guidler-b.stl,295684,71deca2a425567ef7f63f7412ed5ab9545d07e433edf433d25ff1c0f86c67e50,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/4-latch.stl,303384,24d590caacac69dad124f1121e51cf22a00534eb7ffebb2801769bf51d161e46,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/5-stealthburner-main-body.stl,17349584,80464b6ef21922df30a705dd46f0389b6b352fdbc1579e073ea69e575fc7c773,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/6-x-bearing-block-sw.stl,1114284,43189a8f6f7219be27fe64a5fb358b419f002742ebc13390c3e1fa09d975c431,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/7-stealthburner-led-diffuser.stl,101384,415cc6b969d2166f3324cf41bacc7c1ae132bcb1de9c9a1ae724eb987ef2354e,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/8-stealthburner-led-carrier.stl,213184,76e5f8d0ff4d2083ee743c88e4c38474746bb262c406f91cb08f08e41f1b3c24,pending builder selection
+Stealthburner Assembly,Stealthburner Assembly/9-stealthburner-led-diffuser-mask.stl,160484,b7ae6eaa284373fe152822c6215a9d0e325cc7c344ec688ceedd3aebaa501ef3,pending builder selection
+Tools,Tools/1-mgn12-rail-guide-x2.stl,60884,d56bd9b521475499ea27796228a147a4291014329d2b168abb548d686773212a,pending builder selection
+X Gantry,X Gantry/1-xz-block-left-a.stl,939584,701d0dacf4784154c9ac76f4191f6291cae25f2bf0dca512c3edaabd6427a3c8,pending builder selection
+X Gantry,X Gantry/2-xz-block-left-b.stl,227484,39a86f41bbd447156644fe6e73ba2bef0fc237fcff3e2eca3043e8960b95ae91,pending builder selection
+X Gantry,X Gantry/3-xz-block-right-a.stl,808484,aa066ce7ddd513c724ccaeb1be1bb3078b607a52cb7dc926df2a5d9efbaec70e,pending builder selection
+X Gantry,X Gantry/4-xz-block-right-b.stl,221184,5f23266ff9ba3a6d71fa66e33793b2e91fd4652f8b417dc66caf4161221bbc83,pending builder selection
+Y Gantry,Y Gantry/1-bed-carrier-mgn12h.stl,677784,487f9ce9ca183f3e0eaf45058f643b8c85d0b353f35516d503aa17943460fd0b,pending builder selection
+Y Gantry,Y Gantry/2-bed-chain-holder-3-hole.stl,267784,5915783d6104b2c6ff1750272fcdacf6dba2f393a00f66384c203e046e514d6e,pending builder selection
+Y Gantry,Y Gantry/3-bed-screw-long-x4.stl,579984,2b209b2fa632cc965d1f2a278c6c40c79cbfda17440ebd2bd97ec7ea42649d23,pending builder selection
+Y Gantry,Y Gantry/4-bed-screw-short-x4.stl,429884,bc4b3d7d0203526eaba9713e4e66ed274d5fd8fa77a1be205a38d01477394a9f,pending builder selection
+Y Gantry,Y Gantry/5-rear-motor-a.stl,681284,fdb05b9ecc80205bd6b5ae4a0b02a12c59e1e3caa0d98c6f83f9c9328f2c884c,pending builder selection
+Y Gantry,Y Gantry/6-rear-motor-b.stl,672684,dc9bfcf7425e73348c4f162b905cfcd648db08df4636bf9beabb9608f7181aed,pending builder selection
+Y Gantry,Y Gantry/7-endstop-d2fl-mount.stl,96284,1378c60a0dc7cbc5a3a757b3833041927872aa1549e1494f83777a5991a2f9e2,pending builder selection
+Y Gantry,Y Gantry/8-front-idler-holder.stl,276584,2db8637b8728898dbcdfe15bdc284fd75828d6e91c7798e2d4c80b2b1065fb84,pending builder selection
+Y Gantry,Y Gantry/9-y-chain-holder-3-hole-z-extrusion.stl,342484,a18e5b7f5ad5f236ea446361beb5afb354aa9c158ac0b04340c07aedd1c30a90,pending builder selection
+Z Gantry,Z Gantry/1-left-motor-mount-a.stl,507184,5eb030aa76630c8405cb759609206eb6e6506f639e88d8d58daf79fd8c57e913,pending builder selection
+Z Gantry,Z Gantry/10-xz-block-a-door-puller-keybak.stl,460984,57bc89f19765809a1d94999097b45b6a6088a2c99722b8293de51ab591b743ab,pending builder selection
+Z Gantry,Z Gantry/11-xz-block-b-chain-mount-3-hole.stl,554384,6355df23b4bcc6d14b0cf0afeb2f8610283c46a9e15672ff09d6221337982fbb,pending builder selection
+Z Gantry,Z Gantry/12-upper-block-left-a.stl,91484,e5dd50f6e53b437292d4cdf9afe45841f2465fb4b02a00671e53ba3514b817dc,pending builder selection
+Z Gantry,Z Gantry/13-upper-block-left-b.stl,237484,aec25c89d4ebf44ac0c4c0434b05230ae62cd615af9da1bd97303538d665fce3,pending builder selection
+Z Gantry,Z Gantry/14-upper-block-right-a.stl,91484,7c088c7c986b5314991dba4251b4fbede24f36ff2992bfd398d321a343ab7e3a,pending builder selection
+Z Gantry,Z Gantry/15-upper-block-right-b.stl,238084,8816f8e402e531705515a9294c869ebec309089486925f0740e5158b13516bab,pending builder selection
+Z Gantry,Z Gantry/2-left-motor-mount-b.stl,426384,a39c63bed7883b46558c006bff9604b4c587ff3f4166b21ae6333afcf550d27d,pending builder selection
+Z Gantry,Z Gantry/3-right-motor-mount-a.stl,507184,28a343957f5cd5cd41ac6c00cb5b1ce9379c670608cfe06f4091451a7f7fa796,pending builder selection
+Z Gantry,Z Gantry/4-right-motor-mount-b.stl,426684,c25fbc4319337a06c7512993391a06f1b8afb87a6f79cb715320c2ab3c93c255,pending builder selection
+Z Gantry,Z Gantry/5-tensionier-blocks-x2.stl,61884,f54bae4cb724b00c57253732215e1ee03827f3faf4b999c7640ca4d5bdc0f344,pending builder selection
+Z Gantry,Z Gantry/6-z-chanin-3-hole-mount.stl,176584,95e11e77c36860029e667ce9dd07a05319c1a9dbebe056d6e51bd956ed811b39,pending builder selection
+Z Gantry,Z Gantry/7-extrusion-hole-cable-cover-right-side-old-c14.stl,415084,c1053d63d4c62f4c62b4821c85a5582e785953617fcb568075020a52dd9eb097,pending builder selection
+Z Gantry,Z Gantry/8-mgn12h-bottom-z-stoppers-x2.stl,101384,3ae1c6d3e2ddd39230fcbc301cfc59915278d4f7f141c6becc135141a6034b10,pending builder selection
+Z Gantry,Z Gantry/9-mgn12h-top-z-stoppers-x2.stl,63284,9594368678a312d0a8db20b4dec8d9998226800a3b3ec268744b74e2df7cb9dc,pending builder selection
