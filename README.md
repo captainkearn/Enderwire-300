@@ -46,7 +46,7 @@ Read these in order:
 10. [Photo replacement guide](docs/10-photos.md)
 11. [Build record and remaining measurements](docs/11-build-record.md)
 
-The [parts inventory](bom/trinity-file-inventory.csv) lists the actual local Trinity STL filenames. It is an inventory, not a verified shopping list or an instruction to print every file.
+The [Trinity STL files](STLs/Trinity/README.md) are included with their original folders and filenames. The [parts inventory](bom/trinity-file-inventory.csv) lists all 98 source STLs and their hashes. It is an inventory, not a verified shopping list or an instruction to print every file.
 
 ## How this differs from the source projects
 

@@ -19,7 +19,7 @@ Sources reviewed October 31, 2026. Hardware specifications in this repository ar
 | Mellow | Hardware manufacturer and authoritative board references | [C5 docs](https://mellow.klipper.cn/en/docs/category/fly-c5/) |
 | Klipper contributors | Firmware configuration and verification procedures | [Klipper documentation](https://www.klipper3d.org/) |
 
-The Printables web page could not be fetched during preparation. The supplied 15-page PDF was inspected instead. It identifies Jackmiller, a publication/update date of August 28, 2025, the model list, FizzysTech/Ender_SW/Voron links, and a CC BY-SA 4.0 license link. The PDF is not republished in this package. The STL inventory records the local source files; the meshes are not included.
+The Printables web page could not be fetched during preparation. The supplied 15-page PDF was inspected instead. It identifies Jackmiller, a publication/update date of August 28, 2025, the model list, FizzysTech/Ender_SW/Voron links, and a CC BY-SA 4.0 license link. The PDF is not republished in this package. All 98 supplied Trinity STL files are included unmodified under [STLs/Trinity](../STLs/Trinity/README.md); the STL inventory records their original paths and SHA-256 hashes.
 
 ## Included images
 
